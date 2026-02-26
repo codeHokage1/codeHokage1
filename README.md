@@ -1,46 +1,102 @@
-![Banner](https://github.com/codeHokage1/codeHokage1/blob/main/Banner2.jpg)
-<h1 align="center">Hey there!👋🏼 I'm Farhan Sodiq</h1>
-<h3 align="center">A driven Software Engineer from Nigeria, looking forward to solving problems and making impact!</h3>
+<div align="center">
+<p>
+  <a href="https://linkedin.com/in/sodiqfarhan">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://sodiqfarhan.hashnode.dev">
+    <img src="https://img.shields.io/badge/-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge">
+  </a>
+  <a href="mailto:farhansodiq360@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <a href="https://stackoverflow.com/users/19697985/farhan-sodiq">
+    <img src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge">
+  </a>
+  <a href="https://drive.google.com/file/d/1-KxhsfpDXWGFNwuC8F2NsvDEV8YBeIjv/view?usp=sharing">
+    <img src="https://img.shields.io/badge/-Resume-4A148C?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=codeHokage1&style=for-the-badge" alt="Profile Views Count Badge">
+</p>
+<hr>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/codeHokage1/codeHokage1/blob/main/coworking-male-programmer-writing-program-code.gif">
+<p>Hi there 👋🏽<br/>
+My name is <b>Farhan Sodiq</b>, and I enjoy solving problems.</p>
 
-
-- 🌱 I’m currently learning **.NET Core**
-
-- 👯 I’m looking to collaborate on **Any FullStack Web application project**
-
-- 📝 I regularly write articles on [Hashnode](https://sodiqfarhan.hashnode.dev/?source=top_nav_blog_home)
-
-- 💬 Ask me about **MERN & MEAN Stack, Backend Projects, Operations, Technical Writing**
-
-- 📫 How to reach me **farhansodiq360@gmail.com**
-
-- 📄 Know about my experiences [Sodiq Farihan A. - Resume](https://drive.google.com/file/d/1-KxhsfpDXWGFNwuC8F2NsvDEV8YBeIjv/view?usp=sharing)
-
-- ⚡ Fun fact **I play basketball and I watch Anime**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/farhan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="farhan001" height="30" width="40" /></a>
-<a href="https://twitter.com/sodiqfarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sodiqfarhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sodiqfarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sodiqfarhan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19697985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19697985" height="30" width="40" /></a>
+<p>
+I’m a Software Engineer who loves building practical systems that automate real work. From robust fintech payment infrastructures to monitoring tools, governance and risk management systems, business-driven automation pipelines, and AI-assisted/no-code products, I enjoy building solutions that solve real problems.
 </p>
 
+<p>
+I’ve built solutions across fintech, AI, sports, productivity, and consulting, with a strong focus on automation and scalable backend applications. I also work as a technology consultant, helping organizations adopt and improve technology to drive real business outcomes.
+</p>
 
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codehokage1&show_icons=true&locale=en&layout=compact" alt="codehokage1" /></p>
+<p>
+<b>Core strengths:</b><br/>
+Backend engineering (NestJS, C#, .NET) · AI and traditional automation (n8n, Make, Zapier, OpenAI, Gemini, Anthropic, vibe-coding tools) · Product/project management · Technology consulting
+</p>
 
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=codehokage1&show_icons=true&locale=en" alt="codehokage1" /></p>
+<p>
+<b>Currently exploring:</b> Cloud · DevOps · Distributed Systems
+</p>
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=codehokage1&" alt="codehokage1" /></p>
+<hr>
+
+<p>
+  <a href="https://github.com/codeHokage1#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-rose-eight-16.vercel.app/api?username=codeHokage1&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only"
+      alt="GitHub-Stats-Card-Dark"
+    />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/codeHokage1#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-rose-eight-16.vercel.app/api?username=codeHokage1&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only"
+      alt="GitHub-Stats-Card-Light"
+    />
+  </a>
+</p>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codehokage1" alt="codehokage1" /></a> </p>
+<hr>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codehokage1&label=Profile%20views&color=0e75b6&style=flat" alt="codehokage1" /> </p>
+<h2>Highlights</h2>
 
-![Banner](https://github.com/codeHokage1/codeHokage1/blob/main/closeBanner2.jpg)
+<details>
+  <summary>Blog Articles</summary>
+  <br />
+  Here are a few articles you might want to check out:
+  <br />
+  <br />
+  <ul>
+    <li>
+      <a href="https://sodiqfarhan.hashnode.dev/building-a-nodejs-app-with-postgres-database-on-render-a-step-by-step-guide-beginner-friendly" target="_blank" rel="noopener noreferrer">
+        Building a Node.js App with Postgres Database on Render – A Step-by-Step Guide (Beginner Friendly)
+      </a>
+    </li>
+    <li>
+      <a href="https://dev.to/farhan001/the-present-vs-the-next-web20-and-web30-59p0" target="_blank" rel="noopener noreferrer">
+        The Present Vs The Next: Web2.0 and Web3.0
+      </a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>Connect With Me</summary>
+  <ul>
+    <li>
+      💬 <b>How to reach me:</b> Email
+      <a href="mailto:farhansodiq360@gmail.com">farhansodiq360@gmail.com</a>.
+    </li>
+    <li>
+      📬 <b>Where to find me:</b> Connect with me on
+      <a href="https://linkedin.com/in/sodiqfarhan" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+    </li>
+    <li>
+      🎙️ <b>Fun fact:</b> I’m a debater and public speake. I was Best Speaker at the Pan African Universities Debating Championship (PAUDC) 202. I also play basketball.
+    </li>
+  </ul>
+</details>
