@@ -96,7 +96,7 @@ Backend engineering (NestJS, C#, .NET) · AI and traditional automation (n8n, Ma
       <a href="https://linkedin.com/in/sodiqfarhan" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
     </li>
     <li>
-      🎙️ <b>Fun fact:</b> I’m a debater and public speake. I was Best Speaker at the Pan African Universities Debating Championship (PAUDC) 202. I also play basketball.
+      🎙️ <b>Fun facts:</b> I’m a debater and public speaker. I was the Best Speaker at the Pan-African Universities Debating Championship (PAUDC) 2021. I also play basketball.
     </li>
   </ul>
 </details>
